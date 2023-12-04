@@ -2,6 +2,7 @@
 let rect_width  = 20;
 let rect_height = 20;
 
+let rect_height = 70;
 
 function setup_wallpaper(pWallpaper) {
   pWallpaper.output_mode(DEVELOP_GLYPH);
