@@ -51,4 +51,232 @@ function setup_wallpaper(pWallpaper) {
   pWallpaper.grid_settings.cell_width  = 100;
   pWallpaper.grid_settings.cell_height = 100;
   pWallpaper.grid_settings.row_offset  = 0;
+
+
+
+
+
+
+
+  FINAL WALLPAPER CODE
+
+    //your parameter variables go here!
+let flowerCENTREX = 75; // Controls where the centre point of the floer pulls from (where all the petals meet)
+let flowerCENTREY = 120;
+
+let  petalpointoneX= 95; //Controls the point first vert of petal 1(PETALS COUNTED STARTING FROM PINK GOING CLOCKWISE )
+let  petalpointoneY= 15;
+
+let  petalpointTWOX= 95;//Controls the point first vert of petal 2
+let  petalpointTWOY= 116;
+
+let  petalpoint3X= 95;//Controls the point first vert of petal 3
+let  petalpoint3Y= 70;
+
+let  petalpoint4X= 95;//Controls the point first vert of petal 4
+let  petalpoint4Y= 230;
+
+let  petalpoint5X= 95;//Controls the point first vert of petal 5
+let  petalpoint5Y= 222;
+
+let backroundshape= false;
+
+
+IMAGE 1 
+
+//your parameter variables go here!
+let flowerCENTREX = 75; // Controls where the centre point of the floer pulls from (where all the petals meet)
+let flowerCENTREY = 170;
+
+let  petalpointoneX= 95; //Controls the point first vert of petal 1(PETALS COUNTED STARTING FROM PINK GOING CLOCKWISE )
+let  petalpointoneY= 95;
+
+let  petalpointTWOX= 95;//Controls the point first vert of petal 2
+let  petalpointTWOY= 196;
+
+let  petalpoint3X= 95;//Controls the point first vert of petal 3
+let  petalpoint3Y= 190;
+
+let  petalpoint4X= 95;//Controls the point first vert of petal 4
+let  petalpoint4Y= 850;
+
+let  petalpoint5X= 95;//Controls the point first vert of petal 5
+let  petalpoint5Y= 342;
+
+let backroundshape= false;
+
+
+
+IMAGE 2 
+
+//your parameter variables go here!
+let flowerCENTREX = 0; // Controls where the centre point of the floer pulls from (where all the petals meet)
+let flowerCENTREY = 0;
+
+let  petalpointoneX= 10; //Controls the point first vert of petal 1(PETALS COUNTED STARTING FROM PINK GOING CLOCKWISE )
+let  petalpointoneY= 95;
+
+let  petalpointTWOX= 195;//Controls the point first vert of petal 2
+let  petalpointTWOY= 16;
+
+let  petalpoint3X= 195;//Controls the point first vert of petal 3
+let  petalpoint3Y= 10;
+
+let  petalpoint4X= 115;//Controls the point first vert of petal 4
+let  petalpoint4Y= 80;
+
+let  petalpoint5X= 95;//Controls the point first vert of petal 5
+let  petalpoint5Y= 342;
+
+let backroundshape= true;
+
+IMAGE 3 
+
+
+//your parameter variables go here!
+let flowerCENTREX = 155; // Controls where the centre point of the floer pulls from (where all the petals meet)
+let flowerCENTREY = 250;
+
+let  petalpointoneX= 10; //Controls the point first vert of petal 1(PETALS COUNTED STARTING FROM PINK GOING CLOCKWISE )
+let  petalpointoneY= 95;
+
+let  petalpointTWOX= 15;//Controls the point first vert of petal 2
+let  petalpointTWOY= 106;
+
+let  petalpoint3X= 195;//Controls the point first vert of petal 3
+let  petalpoint3Y= 10;
+
+let  petalpoint4X= 20;//Controls the point first vert of petal 4
+let  petalpoint4Y= 60;
+
+let  petalpoint5X= 30;//Controls the point first vert of petal 5
+let  petalpoint5Y= 50;
+
+let backroundshape= true;
+
+
+
+
+IMAGE 4 
+
+
+//your parameter variables go here!
+let flowerCENTREX = 195; // Controls where the centre point of the floer pulls from (where all the petals meet)
+let flowerCENTREY = 195;
+
+let  petalpointoneX= 0; //Controls the point first vert of petal 1(PETALS COUNTED STARTING FROM PINK GOING CLOCKWISE )
+let  petalpointoneY= 0;
+
+let  petalpointTWOX= 0;//Controls the point first vert of petal 2
+let  petalpointTWOY= 0;
+
+let  petalpoint3X= 0;//Controls the point first vert of petal 3
+let  petalpoint3Y= 0;
+
+let  petalpoint4X= 0;//Controls the point first vert of petal 4
+let  petalpoint4Y= 0;
+
+let  petalpoint5X= 0;//Controls the point first vert of petal 5
+let  petalpoint5Y= 0;
+
+let backroundshape= true;
+
+
+IMAGE 5 
+
+//your parameter variables go here!
+let flowerCENTREX = 195; // Controls where the centre point of the floer pulls from (where all the petals meet)
+let flowerCENTREY = 195;
+
+let  petalpointoneX= 100; //Controls the point first vert of petal 1(PETALS COUNTED STARTING FROM PINK GOING CLOCKWISE )
+let  petalpointoneY= 40;
+
+let  petalpointTWOX= 200;//Controls the point first vert of petal 2
+let  petalpointTWOY= 0;
+
+let  petalpoint3X= 100;//Controls the point first vert of petal 3
+let  petalpoint3Y= ;
+
+let  petalpoint4X= 10;//Controls the point first vert of petal 4
+let  petalpoint4Y= 220;
+
+let  petalpoint5X= 75;//Controls the point first vert of petal 5
+let  petalpoint5Y= 127;
+
+let backroundshape= true;
+
+
+
+IMAGE 6 
+
+//your parameter variables go here!
+let flowerCENTREX = 95; // Controls where the centre point of the floer pulls from (where all the petals meet)
+let flowerCENTREY = 95;
+
+let  petalpointoneX= 500; //Controls the point first vert of petal 1(PETALS COUNTED STARTING FROM PINK GOING CLOCKWISE )
+let  petalpointoneY= 640;
+
+let  petalpointTWOX= 200;//Controls the point first vert of petal 2
+let  petalpointTWOY= 440;
+
+let  petalpoint3X= 700;//Controls the point first vert of petal 3
+let  petalpoint3Y= 740;
+
+let  petalpoint4X= 710;//Controls the point first vert of petal 4
+let  petalpoint4Y= 820;
+
+let  petalpoint5X= 700;//Controls the point first vert of petal 5
+let  petalpoint5Y= 500;
+
+let backroundshape= false;
+
+
+IMAGE 7 
+
+//your parameter variables go here!
+let flowerCENTREX = 95; // Controls where the centre point of the floer pulls from (where all the petals meet)
+let flowerCENTREY = 95;
+
+let  petalpointoneX= 295; //Controls the point first vert of petal 1(PETALS COUNTED STARTING FROM PINK GOING CLOCKWISE )
+let  petalpointoneY= 0;
+
+let  petalpointTWOX= 295;//Controls the point first vert of petal 2
+let  petalpointTWOY= 0;
+
+let  petalpoint3X= 295;//Controls the point first vert of petal 3
+let  petalpoint3Y= 0;
+
+let  petalpoint4X= 295;//Controls the point first vert of petal 4
+let  petalpoint4Y= 0;
+
+let  petalpoint5X= 295;//Controls the point first vert of petal 5
+let  petalpoint5Y= 0;
+
+let backroundshape= false;
+
+
+
+
+IMAGE 8 
+
+//your parameter variables go here!
+let flowerCENTREX = 66; // Controls where the centre point of the floer pulls from (where all the petals meet)
+let flowerCENTREY = 220;
+
+let  petalpointoneX= 95; //Controls the point first vert of petal 1(PETALS COUNTED STARTING FROM PINK GOING CLOCKWISE )
+let  petalpointoneY= 15;
+
+let  petalpointTWOX= 95;//Controls the point first vert of petal 2
+let  petalpointTWOY= 116;
+
+let  petalpoint3X= 95;//Controls the point first vert of petal 3
+let  petalpoint3Y= 70;
+
+let  petalpoint4X= 95;//Controls the point first vert of petal 4
+let  petalpoint4Y= 230;
+
+let  petalpoint5X= 95;//Controls the point first vert of petal 5
+let  petalpoint5Y= 222;
+
+let backroundshape= false;
 }
